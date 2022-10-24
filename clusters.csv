@@ -1,4 +1,4 @@
-identifier,name,master_url,ca_cert_ref,client_cert_ref,client_key_ref,client_key_algorithm
-gabs-fake-dev,https://35.239.1.164,bW9uaWNhCg==,ZGllZ28K
-gabs-fake-qa,https://35.239.1.164,bW9uaWNhMgo=,ZGllZ28yCg==
-gabs-fake-prod,https://35.239.1.164,bW9uaWNhMjUK,ZGllZ28yNQo=
+name,master_url,ca_cert_ref,client_cert_ref,client_key_ref,client_key_algorithm,delegate_selector
+gabsdev,https://192.168.15.100:6443,account.gabsk8sclientcertca,account.gabsk8sclientcert,account.gabsk8sclientkey,RSA,gabs-manual-k8s-virtualbox
+gabsqa,https://192.168.15.100:6443,account.gabsk8sclientcertca,account.gabsk8sclientcert,account.gabsk8sclientkey,RSA,gabs-manual-k8s-virtualbox
+gabsprod,https://192.168.15.100:6443,account.gabsk8sclientcertca,account.gabsk8sclientcert,account.gabsk8sclientkey,RSA,gabs-manual-k8s-virtualbox
