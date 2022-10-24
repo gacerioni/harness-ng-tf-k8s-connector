@@ -1,0 +1,4 @@
+identifier,name,master_url,ca_cert_ref,client_cert_ref,client_key_ref,client_key_algorithm
+gabs-fake-dev,https://35.239.1.164,bW9uaWNhCg==,ZGllZ28K
+gabs-fake-qa,https://35.239.1.164,bW9uaWNhMgo=,ZGllZ28yCg==
+gabs-fake-prod,https://35.239.1.164,bW9uaWNhMjUK,ZGllZ28yNQo=
